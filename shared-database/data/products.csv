@@ -1,0 +1,38 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price,uom
+1,PPR Pipe 20mm,Pipes & Fittings,PPR,1163.26,2046.52,PCS
+2,PPR Pipe 32mm,Pipes & Fittings,PPR,1020.7,1345.82,PCS
+3,PVC Pipe 4in,Pipes & Fittings,PVC,590.48,790.93,PCS
+4,Copper Pipe 15mm,Pipes & Fittings,Copper,490.23,624.23,PCS
+5,Elbow Fitting PPR,Pipes & Fittings,Elbow,464.08,838.18,PCS
+6,Tee Fitting PVC,Pipes & Fittings,Tee,329.27,545.16,PCS
+7,Coupling Brass,Pipes & Fittings,Coupling,554.18,798.24,PCS
+8,Gate Valve 2in,Valves,Gate,1149.42,2085.52,PCS
+9,Ball Valve 1in,Valves,Ball,673.59,1085.74,PCS
+10,Check Valve 3in,Valves,Check,198.43,273.39,PCS
+11,Pressure Reducing Valve,Valves,Pressure,1162.92,1774.9,PCS
+12,Butterfly Valve 4in,Valves,Butterfly,657.5,1072.58,PCS
+13,Wall-Hung WC,Sanitary Ware,Wall-Hung,82.74,126.52,PCS
+14,One-Piece WC,Sanitary Ware,One-Piece,610.88,1041.0,PCS
+15,Pedestal Basin,Sanitary Ware,Pedestal,201.56,360.05,PCS
+16,Counter-Top Basin,Sanitary Ware,Counter-Top,109.93,145.88,PCS
+17,Urinal Standard,Sanitary Ware,Urinal,720.12,1140.88,PCS
+18,Single Lever Basin Mixer,Bathroom Fixtures,Single,293.72,381.44,PCS
+19,Shower Mixer Set,Bathroom Fixtures,Shower,1069.99,1448.97,PCS
+20,Bath Filler Spout,Bathroom Fixtures,Bath,719.51,1115.25,PCS
+21,Concealed Shower System,Bathroom Fixtures,Concealed,511.78,782.44,PCS
+22,Bidet Mixer,Bathroom Fixtures,Bidet,634.5,1120.38,PCS
+23,FCU 800CFM,HVAC Components,FCU,257.05,413.96,PCS
+24,Duct Flexible 10in,HVAC Components,Duct,297.84,424.85,PCS
+25,AHU Filter Panel,HVAC Components,AHU,810.95,1118.55,PCS
+26,VAV Box,HVAC Components,VAV,389.67,636.68,PCS
+27,Damper Actuator,HVAC Components,Damper,100.96,147.29,PCS
+28,Electric Water Heater 50L,Water Heaters,Electric,1198.17,2174.63,PCS
+29,Electric Water Heater 100L,Water Heaters,Electric,101.81,136.34,PCS
+30,Solar Water Heater,Water Heaters,Solar,329.26,581.03,PCS
+31,Circulation Pump,Pumps,Circulation,1058.82,1824.98,PCS
+32,Submersible Pump,Pumps,Submersible,452.89,595.47,PCS
+33,Booster Pump Set,Pumps,Booster,1002.99,1607.06,PCS
+34,Pipe Clamp Set,Accessories,Pipe,739.84,1337.4,PCS
+35,Teflon Tape,Accessories,Teflon,789.96,989.87,PCS
+36,Thread Sealant,Accessories,Thread,983.27,1355.94,PCS
+37,Insulation Wrap,Accessories,Insulation,801.12,1417.24,PCS

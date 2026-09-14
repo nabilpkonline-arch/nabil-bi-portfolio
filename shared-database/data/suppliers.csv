@@ -1,0 +1,16 @@
+supplier_id,supplier_name,country,category,rating,onboard_date
+1,Grohe Middle East,India,HVAC,4.8,2023-07-14
+2,Kohler Gulf Distribution,Germany,Sanitary Ware,3.4,2022-11-24
+3,Jaquar UAE,Germany,Pumps,4.1,2022-03-28
+4,Viega Middle East,Germany,Pipes & Fittings,4.4,2021-05-01
+5,Geberit Gulf FZE,USA,Pipes & Fittings,4.8,2022-11-08
+6,Ideal Standard MENA,Germany,Pumps,3.5,2023-09-22
+7,Wilo Pumps Gulf,USA,Pumps,3.3,2023-08-27
+8,Grundfos Gulf,USA,HVAC,4.6,2022-01-25
+9,Aliaxis Middle East,Germany,Pipes & Fittings,4.3,2022-12-27
+10,RAK Ceramics Trading,UAE,HVAC,3.9,2021-04-21
+11,Hansgrohe Gulf,Finland,Pipes & Fittings,3.1,2022-11-26
+12,Uponor Middle East,Switzerland,Pipes & Fittings,3.5,2022-01-25
+13,Toto Middle East,Italy,HVAC,3.3,2022-01-11
+14,Danfoss Gulf FZE,India,HVAC,3.5,2021-06-04
+15,Rehau Gulf,UAE,Pumps,3.2,2021-01-31
