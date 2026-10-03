@@ -4,10 +4,6 @@ Four end-to-end analytics projects built to demonstrate SQL, Power Query,
 Power BI, and applied AI skills against a realistic UAE MEP trading
 business — the same domain I worked in at Hydro Sanitary Ware Trading.
 
-## Why this portfolio exists
-
-A generic "Data Analyst portfolio" usually shows the same Titanic or
-Superstore dataset everyone else uses. This one uses a synthetic-but-realistic
 **UAE MEP trading dataset** — customers, suppliers, RFQs, purchase orders,
 inventory, and financials
 
